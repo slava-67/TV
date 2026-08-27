@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦24.08.2026|12-20|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-3 🚦27.08.2026|17-15|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -4639,26 +4639,10 @@ http://kinowalk.hopto.org/makarstrim_live
 
 #EXTINF:-1 group-title="KINO+📺",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",КиноПремьера HD
-http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-#EXTINF:-1 group-title="KINO+📺",КИНОХИТ
-http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="KINO+📺",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="KINO+📺",kinomiks
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="KINO+📺",Киномикс HD
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1 group-title="KINO+📺",КИНОСВИДАНИЕ
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:-1 group-title="KINO+📺",Мужское Кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="KINO+📺",МУЖСКОЕ КИНО
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
@@ -4671,8 +4655,6 @@ http://185.46.16.239:8000/VIP_Megahit
 http://185.46.16.239:8000/VIP_Premiere
 #EXTINF:-1 group-title="KINO+📺",VIP Premiere
 http://93.84.105.184:443/vippremiere
-#EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="KINO+📺",TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",TV1000 ACTION HD
@@ -4699,14 +4681,8 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 #EXTINF:-1 group-title="KINO+📺",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="KINO+📺",illuzion plus
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 group-title="KINO+📺",Иллюзион plus
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",24 техно
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="KINO+📺",eurokino
-http://158.101.222.193:88/georgia_play.php?id=eurokino
 #EXTINF:-1 group-title="KINO+📺",Евро кино
 http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО 
@@ -4727,12 +4703,6 @@ http://starcius-cinema.com/20702/index.m3u8
 http://starcius-cinema.com/12042/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",7 ТВ HD Молдова
 http://starcius-cinema.com/11711/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Видеокассета VHS
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 group-title="KINO+📺",K1HO
-https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="KINO+📺",KINOSTREAM
-https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="KINO+📺",ЗОВ ТВ Black
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 #EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
@@ -4755,34 +4725,18 @@ http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
-#EXTINF:-1 group-title="KINO+📺",zeetv
-http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="KINO+📺",TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",CCCP
+http://dtv.vol.net.ua/CCCP/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Amedia1
 http://93.84.105.184:443/amediasd
-#EXTINF:-1 group-title="KINO+📺",amedia1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="KINO+📺",A2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="KINO+📺",Amidia Hit HD
 http://194.152.35.17/amedia-hit/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1 group-title="KINO+📺",Amedia Premium
-http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:-1 group-title="KINO+📺",Red
-http://158.101.222.193:88/georgia_play.php?id=red
-#EXTINF:-1 group-title="KINO+📺",.sci-fi
-http://158.101.222.193:88/georgia_play.php?id=scifi
-#EXTINF:-1 group-title="KINO+📺",black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="KINO+📺",КИНОУЖАС
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="KINO+📺",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",NST
@@ -4827,10 +4781,6 @@ http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8?token=tva.in.ua
 https://stream.ushba.tv/akamaiushba/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",TNT
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="KINO+📺",nashanovoekino
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-#EXTINF:-1 group-title="KINO+📺",фЕНИКС plus КИНО
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="KINO+📺",СТС
 http://5.188.221.43:8080/play/sts
 #EXTINF:-1 group-title="KINO+📺",СТС 720x576
@@ -4857,8 +4807,6 @@ http://176.118.197.101/TB3/index.m3u8
 http://31.131.141.195:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 group-title="KINO+📺",Пятница! International
-http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:-1 group-title="KINO+📺",Пятница
 http://5.188.221.43:8080/play/Pyatnica
 #EXTINF:-1 group-title="KINO+📺",Пятница 720x576
@@ -4867,16 +4815,12 @@ http://31.131.141.195:8000/play/2060/index.m3u8
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTI RNF:-1 group-title="KINO+📺",M Золотая коллекция 
 http://178.134.1.158:8081/mosfilm/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+📺",perec
-http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="KINO+📺",Бел 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="KINO+📺",Ретро sd
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Ретро
 http://93.84.105.184:443/retro
-#EXTINF:-1 group-title="KINO+📺",nostalgy
-http://158.101.222.193:88/georgia_play.php?id=nostalgy
 #EXTINF:-1 group-title="KINO+📺",Ностальгия 
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 
@@ -4887,6 +4831,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 http://portal.ott.pink/C5UK_SyspilnePershiyT2/index.m3u8?token=B0B73593320445A22451378DF37B3E76
 #EXTINF:-1 group-title="Україна 🇺🇦",ІНТЕР
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384895&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",ІНТЕР
+http://89.33.29.115:8080/Inter/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 Марафон
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 International 
@@ -4897,8 +4843,30 @@ http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна (UA)
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="Україна 🇺🇦",КВАРТАЛ
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 UA
+http://89.33.29.115:8080/1plus1/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",2+2
+http://89.33.29.115:8080/2plus2/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",TET HD
+http://89.33.29.115:8080/TET/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",НТН HD
+http://89.33.29.115:8080/NTN/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",TV
+http://89.33.29.115:8080/STB/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ЕНТЕР ФІЛЬМ HD
+http://89.33.29.115:8080/enter_film_ua/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Film UA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Epic Drama HD
+http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Мега HD
+http://dtv.vol.net.ua/MEGA-HD/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ЗАКОН ТВ+
+http://195.189.60.253/zakon_tv_hd/video.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",МАСОН ТВ
+http://195.189.60.253/mason_tv_hd/video.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Квартал ТВ
+http://dtv.vol.net.ua/Kvartal_TV/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",FILM TV GROUP
 http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="Україна 🇺🇦",Новосілки ТБ
@@ -4965,6 +4933,7 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Сфера ТВ
 http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Realitatea TV
@@ -5235,36 +5204,6 @@ https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Пловдивска Православна ТВ
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",101_BNT 1 HD
-http://213.91.179.28:8000/play/a046
-#EXTINF:-1 group-title="Болгария 🇧🇬",102_BNT 2 HD
-http://213.91.179.28:8000/play/a049
-#EXTINF:-1 group-title="Болгария 🇧🇬",103_bTV HD
-http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 group-title="Болгария 🇧🇬",104_bTV Action HD
-http://213.91.179.28:8000/play/a04n
-#EXTINF:-1 group-title="Болгария 🇧🇬",105_bTV Cinema
-http://213.91.179.28:8000/play/a04i
-#EXTINF:-1 group-title="Болгария 🇧🇬",111_bTV Comedy HD
-http://213.91.179.28:8000/play/a04k
-#EXTINF:-1 group-title="Болгария 🇧🇬",112_bTV Story
-http://213.91.179.28:8000/play/a05i
-#EXTINF:-1 group-title="Болгария 🇧🇬",113_NOVA HD
-http://213.91.179.28:8000/play/a03l
-#EXTINF:-1 group-title="Болгария 🇧🇬",114_Nova News HD
-http://213.91.179.28:8000/play/a063
-#EXTINF:-1 group-title="Болгария 🇧🇬",115_Kino Nova
-http://213.91.179.28:8000/play/a041
-#EXTINF:-1 group-title="Болгария 🇧🇬",121_Diema
-http://213.91.179.28:8000/play/a045
-#EXTINF:-1 group-title="Болгария 🇧🇬",122_Diema Family
-http://213.91.179.28:8000/play/a047
-#EXTINF:-1 group-title="Болгария 🇧🇬",123_Vivacom Arena
-http://213.91.179.28:8000/play/a053
-#EXTINF:-1 group-title="Болгария 🇧🇬",124_Cinestar
-http://213.91.179.28:8000/play/a05h
-#EXTINF:-1 group-title="Болгария 🇧🇬",125_Cinestar A&T
-http://213.91.179.28:8000/play/a06b
 #EXTINF:-1 group-title="Болгария 🇧🇬",HBO HD bg
 https://shift03.isp.bg/HBO2_HD/index.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",HBO 2 HD bg
@@ -5692,22 +5631,6 @@ http://iptv.prosto.tv:7000/ch344/video.m3u8
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",24 техно
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
-http://158.101.222.193:88/georgia_play.php?id=zoo
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
-http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
@@ -5785,9 +5708,7 @@ https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗАГОРОДНЫЙ
 https://stream8.cinerama.uz/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
-http://178.134.1.158:8081/nauka/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
-http://178.124.153.123:44400/rtg
+http://178.134.1.158:8081/nauka/index.m3u8?token=tva.in.ua
 
 
 #EXTINF:-1 group-title="SPORT 🏆",Divi Sport
@@ -5805,20 +5726,6 @@ http://5.188.159.128:8070/megogo_sport/index.m3u8
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 3 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
-#EXTINF:-1 group-title="SPORT 🏆",Silk Sport 4
-http://158.101.222.193:88/georgia_play.php?id=silk_sport4
-#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
-http://158.101.222.193:88/georgia_play.php?id=viasatsport
-#EXTINF:-1 group-title="SPORT 🏆",Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="SPORT 🏆",Матч TV
@@ -5982,80 +5889,8 @@ http://45.129.141.180:9981/stream/channelid/1940136002?profile=iptv.org.ua
 #EXTINF:-1 group-title="SPORT 🏆",SKY TENIS IT aliex2 it
 #EXTVLCOPT:network-caching=1000
 http://45.129.141.180:9981/stream/channelid/1363722412?profile=iptv.org.ua
-#EXTINF:-1 group-title="SPORT 🏆",Nova Sport HD BG
-http://213.91.179.28:8000/play/a04a
-#EXTINF:-1 group-title="SPORT 🏆",Diema Sport HD BG
-http://213.91.179.28:8000/play/a06q
-#EXTINF:-1 group-title="SPORT 🏆",Diema Sport 2 HD BG
-http://213.91.179.28:8000/play/a08e
-#EXTINF:-1 group-title="SPORT 🏆",Diema Sport 3 HD BG
-http://213.91.179.28:8000/play/a08f
-#EXTINF:-1 group-title="SPORT 🏆",MAX Sport 1 HD BG
-http://213.91.179.28:8000/play/a0as
-#EXTINF:-1 group-title="SPORT 🏆",MAX Sport 2 HD BG
-http://213.91.179.28:8000/play/a0at
-#EXTINF:-1 group-title="SPORT 🏆",MAX Sport 3 HD BG
-http://213.91.179.28:8000/play/a0ar
-#EXTINF:-1 group-title="SPORT 🏆",Max Sport 4 BG
-http://213.91.179.28:8000/play/a05n
-#EXTINF:-1 group-title="SPORT 🏆",Ring HD BG 
-http://213.91.179.28:8000/play/a06e
-#EXTINF:-1 group-title="SPORT 🏆",Fight Club HD BG
-http://213.91.179.28:8000/play/a08i
-#EXTINF:-1 group-title="SPORT 🏆",MMA-TV BG
-http://213.91.179.28:8000/play/a048
-#EXTINF:-1 group-title="SPORT 🏆",BNT 3 HD BG
-http://213.91.179.28:8000/play/a03x
-#EXTINF:-1 group-title="SPORT 🏆",BNT 4 BG
-http://213.91.179.28:8000/play/a04u
 #EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 2
-http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 3
-http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",SPORTV 1
-http://177.52.24.163/SPORTV-1-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SPORTV 2
-http://177.52.24.163/SPORTV-2-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SPORTV 3
-http://177.52.24.163/SPORTV-3-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ESPN 1
-http://177.52.24.163/ESPN-1-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ESPN 2
-http://177.52.24.163/ESPN-2-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ESPN 3
-http://177.52.24.163/ESPN-3-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ESPN 4
-http://177.52.24.163/ESPN-4-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ESPN 5
-http://177.52.24.163/ESPN-5-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 1
-http://177.52.24.163/PREMIERE-1-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 2
-http://177.52.24.163/PREMIERE-2-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 3
-http://177.52.24.163/PREMIERE-3-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 4
-http://177.52.24.163/PREMIERE-4-HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 1 HD Serbian
-https://shift03.isp.bg/Arena_Sport_1/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 2 HD Serbian
-https://shift03.isp.bg/Arena_Sport_2/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 3 HD Serbian
-https://shift04.isp.bg/Arena_Sport_3/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 4 HD Serbian
-https://shift03.isp.bg/Arena_Sport_4/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 5 HD Serbian
-https://shift03.isp.bg/Arena_Sport_5/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Diema Sport HD Serbian
-https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Diema Sport 2 HD Serbian
-https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Nova Sport HD Serbian
-https://shift03.isp.bg/NovaSport_HD/index.m3u8
-
 
 
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Кнопка ТВ
@@ -6072,22 +5907,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S 🧙",FILM TV GROUP МультКазки
 http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S 🧙",FILM TV Леді Баг & Щенячий патруль.
-http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Axterix
-http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Том і Джеррі-Історія Лускунчика|2007|47 хв|США|мультфільм
-https://zetvideo.net/content/stream/films/tom_and_jerry._a_nutcracker_tale_2007_webdl_1080p_2xukr_eng_hurtom_26704/hls/1080/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Король Лев 3|2004|Хакуна Матата|Австралія|США
-https://zetvideo.net/content/stream/films/the.lion.king.3.2004.bdremux.1080p.ukr.eng_17258/hls/1080/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Супергерои
-http://158.101.222.193:88/georgia_play.php?id=malysh
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Da vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Уникум
-http://158.101.222.193:88/georgia_play.php?id=unikum
-#EXTINF:-1 group-title="CHILDREN'S 🧙",Детский мир
-http://158.101.222.193:88/georgia_play.php?id=detskymir
 #EXTINF:-1 group-title="CHILDREN'S 🧙",2x2
 http://5.188.221.43:8080/play/2x2
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Солнце
@@ -6828,6 +6647,132 @@ http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 
 
+#EXTINF:-1 group-title="Individual Entrepreneur",TV1000 Action
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",TV1000
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",VIP COMEDY
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",VIP MEGAHIT HD
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",FX
+http://46.8.46.14/FOX/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Hollywood
+http://46.8.46.14/amc/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",КИНОСВИДАНИЕ
+http://46.8.46.14/kinosvid/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Киносемья
+http://46.8.46.14/kinosemya/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Родное Кино
+http://46.8.46.14/rodkino/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",КИНОХИТ
+http://46.8.46.14/kinohit/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Киносерия
+http://46.8.46.14/kinoseria/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",КИНОМИКС
+http://46.8.46.14/kinomix/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Индийское Кино
+http://46.8.46.14/indiatv/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Любимое Кино
+http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Cinema
+http://46.8.46.14/cinema/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",НСТ
+http://46.8.46.14/nst/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Кино ТВ HD
+http://46.8.46.14/kinotv/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Мир сериала
+http://46.8.46.14/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Ретро
+http://46.8.46.14/retro/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Еврокино
+http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Дом Кино
+http://46.8.46.14/domkino/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",TV XXI
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Бестселлер
+http://46.8.46.14/rubestseller/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur", Роман HD
+http://46.8.46.14/ruroman/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Романтичное HD
+http://46.8.46.14/Romantichnoe_HD/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",FAN
+http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",КВН ТВ
+http://46.8.46.14/kvn/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Авто плюс
+http://46.8.46.14/avtoplus/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Живи HD
+http://46.8.46.14/zhivi/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Зоопарк
+http://46.8.46.14/zoo/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Драйв
+http://46.8.46.14/Drive/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Кухня HD
+http://46.8.46.14/kuhnya/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Белрос
+http://46.8.46.14/tro/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Домашний
+http://46.8.46.14/dom/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Че
+http://46.8.46.14/che/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Ю
+http://46.8.46.14/utv/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",ТВ3
+http://46.8.46.14/tv3/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Охотник и рыболов HD
+http://46.8.46.14/ohota/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",National Geographic
+http://46.8.46.14/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Приключения HD
+http://46.8.46.14/AdventureHD/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Доктор
+http://46.8.46.14/doktor/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Загородная Жизнь
+http://46.8.46.14/usadba/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Нано ТВ
+http://46.8.46.14/Nano/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Nick Jr
+http://46.8.46.14/nickjr/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Мама
+http://46.8.46.14/mama/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Cartoon Network
+http://46.8.46.14/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",2x2
+http://46.8.46.14/2x2/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Карусель
+http://46.8.46.14/Karusel/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Уникум
+http://46.8.46.14/detskiy/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Детский Мир
+http://46.8.46.14/detmir/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Рыжий
+http://46.8.46.14/Ryzhiy/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Мульт
+http://46.8.46.14/mult/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Суббота
+http://46.8.46.14/super/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Nickelodeon
+http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Gulli Girl
+http://46.8.46.14/Gulli/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Viasat Sport
+http://46.8.46.14/viasport/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",KHL
+http://46.8.46.14/khl/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Матч! Арена
+http://46.8.46.14/arena/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Матч ТВ
+http://46.8.46.14/match/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Матч! Игра
+http://46.8.46.14/eurosport/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Матч! Боец
+http://46.8.46.14/boec/index.m3u8
+#EXTINF:-1 group-title="Individual Entrepreneur",Матч Премьер
+http://46.8.46.14/premier/index.m3u8
+
+
 #EXTINF:-1 group-title="Internet42 LLC", Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Cinema
@@ -6996,6 +6941,96 @@ https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Hetzner Online AG",.Red
+http://5.9.11.197:57419/chu-97/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",.Sci-fi
+http://5.9.11.197:57419/chu-99/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia 1
+http://5.9.11.197:57419/chu-109/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia 1 HD
+http://5.9.11.197:57419/chu-401/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia 2 HD
+http://5.9.11.197:57419/chu-402/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia Hit HD
+http://5.9.11.197:57419/chu-87/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Amedia Premium
+http://5.9.11.197:57419/chu-88/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Cinema
+http://5.9.11.197:57419/chu-89/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Ultra HD Cinema 4K
+http://5.9.11.197:57419/chu-387/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Fan HD
+http://5.9.11.197:57419/chu-404/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",FilmBox
+http://5.9.11.197:57419/chu-90/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Filmbox Arthouse
+http://5.9.11.197:57419/chu-91/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Fox
+http://5.9.11.197:57419/chu-92/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",PARAMOUNT COMEDY
+http://5.9.11.197:57419/chu-406/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Start Air HD
+http://5.9.11.197:57419/chu-1641/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV XXI
+http://5.9.11.197:57419/chu-100/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000
+http://5.9.11.197:57419/chu-103/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000 Action HD
+http://5.9.11.197:57419/chu-409/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000 HD
+http://5.9.11.197:57419/chu-410/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",TV1000 кино
+http://5.9.11.197:57419/chu-102/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",VIP Comedy
+http://5.9.11.197:57419/chu-104/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",VIP Megahit
+http://5.9.11.197:57419/chu-105/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",VIP Premiere
+http://5.9.11.197:57419/chu-106/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",ViP Serial
+http://5.9.11.197:57419/chu-107/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Дом кино
+http://5.9.11.197:57419/chu-111/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Дом кино премиум
+http://5.9.11.197:57419/chu-112/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Еврокино
+http://5.9.11.197:57419/chu-113/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Иллюзион+
+http://5.9.11.197:57419/chu-114/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Индия
+http://5.9.11.197:57419/chu-108/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Калейдоскоп ТВ
+http://5.9.11.197:57419/chu-116/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Кино ТВ
+http://5.9.11.197:57419/chu-117/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Индийское кино
+http://5.9.11.197:57419/chu-115/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Кинокомедия
+http://5.9.11.197:57419/chu-119/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Киномикс HD
+http://5.9.11.197:57419/chu-120/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Киносемья
+http://5.9.11.197:57419/chu-123/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Кинохит
+http://5.9.11.197:57419/chu-118/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Мужское кино
+http://5.9.11.197:57419/chu-128/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Наше новое кино
+http://5.9.11.197:57419/chu-132/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Мир сериала
+http://5.9.11.197:57419/chu-127/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",НСТ
+http://5.9.11.197:57419/chu-131/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Бестселлер
+http://5.9.11.197:57419/chu-135/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Иллюзион
+http://5.9.11.197:57419/chu-138/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Роман
+http://5.9.11.197:57419/chu-136/mpegts
+#EXTINF:-1 group-title="Hetzner Online AG",Советское кино
+http://5.9.11.197:57419/chu-139/mpegts
 
 
 #EXTINF:-1 group-title="Cloud_Flare",Техно 24
@@ -7597,6 +7632,8 @@ http://stream.mcquack.net/329/index.m3u8
 http://stream.mcquack.net/326/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",36.6
 http://stream.mcquack.net/331/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",6 СОТОК
+http://stream.mcquack.net/405/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Прованс ТВ
 http://stream.mcquack.net/199/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дім
@@ -7775,6 +7812,8 @@ http://stream.mcquack.net/164/index.m3u8
 http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Travel+Adventure
 http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",WILD
+http://stream.mcquack.net/149/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Охота и рыбалка
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Охотник и рыболов
@@ -7875,6 +7914,8 @@ http://stream.mcquack.net/68/index.m3u8
 http://stream.mcquack.net/167/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",black
 http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMAN
+http://stream.mcquack.net/122/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Время
 http://stream.mcquack.net/237/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",red
@@ -7917,10 +7958,50 @@ http://stream.mcquack.net/466/index.m3u8
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Хит
 http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",kino kanal
+http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMA HD
+http://stream.mcquack.net/62/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax
+http://stream.mcquack.net/484/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Cine Max
+http://stream.mcquack.net/476/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 2
+http://stream.mcquack.net/475/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 3
+http://stream.mcquack.net/474/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 4
+http://stream.mcquack.net/472/index.m3u8 
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 5
+http://stream.mcquack.net/471/index.m3u8 
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Enter-фільм
 http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",BCU
-http://stream.mcquack.net/488/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH PREMIERE
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH CINEMA
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH RATING
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH VHS
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH FAMILY
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH COMEDY
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH tharilles
+http://stream.mcquack.net/434/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH romantic
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH adventure
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH horror
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH series
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH fantastic
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH KIDS
+http://stream.mcquack.net/425/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Премиальное
@@ -8491,8 +8572,6 @@ http://185.121.1.163:8083/Kinopremyera/index.m3u8
 http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:-1 group-title="Tест-17-08",Kino TV
 http://185.121.1.163:8083/KinoTV/index.m3u8
-#EXTINF:-1 group-title="Tест-17-08",Kinouzhas
-http://185.121.1.163:8083/Kinouzhas/index.m3u
 #EXTINF:-1 group-title="Tест-17-08",Muzhskoe Kino
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 group-title="Tест-17-08",TV 1000
@@ -8518,447 +8597,3 @@ http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 group-title="Tест-17-08",Navo
 http://185.121.1.163:8083/Navo/index.m3u8
 
-
-#EXTINF:-1 tvg-id="000101_MegaKadr" tvg-name="Bear TV МегаКадр  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МегаКадр  UHD
-https://uhd.bear-tv.net/000101_MegaKadr/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000102_GoldenScreen" tvg-name="Bear TV Золотой Экран  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Золотой Экран  UHD
-https://uhd.bear-tv.net/000102_GoldenScreen/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000104_KinoTime" tvg-name="Bear TV КиноВремя  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноВремя  UHD
-https://uhd.bear-tv.net/000104_KinoTime/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000105_SerialWorld" tvg-name="Bear TV КиноМир  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМир  UHD
-https://uhd.bear-tv.net/000105_SerialWorld/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000109_SerialHit" tvg-name="Bear TV Хитовый Экран  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Хитовый Экран  UHD
-https://uhd.bear-tv.net/000109_SerialHit/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000110_Filmonavt" tvg-name="Bear TV Фильмонавт  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фильмонавт  UHD
-https://uhd.bear-tv.net/000110_Filmonavt/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000113_KinoHorizon" tvg-name="Bear TV КиноГоризонт  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноГоризонт  UHD
-https://uhd.bear-tv.net/000113_KinoHorizon/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000115_SyuzhetTV" tvg-name="Bear TV Сюжет ТВ  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сюжет ТВ  UHD
-https://uhd.bear-tv.net/000115_SyuzhetTV/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000116_KadrPlus" tvg-name="Bear TV Кадр Плюс  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кадр Плюс  UHD
-https://uhd.bear-tv.net/000116_KadrPlus/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000117_KinoPulse" tvg-name="Bear TV КиноПульс  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноПульс  UHD
-https://uhd.bear-tv.net/000117_KinoPulse/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000121_Ekran24" tvg-name="Bear TV Экран 24  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран 24  UHD
-https://uhd.bear-tv.net/000121_Ekran24/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000130_NightSeans" tvg-name="Bear TV Ночной Сеанс  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Ночной Сеанс  UHD
-https://uhd.bear-tv.net/000130_NightSeans/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000131_PremiereLive" tvg-name="Bear TV Премьера Live  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Премьера Live  UHD
-https://uhd.bear-tv.net/000131_PremiereLive/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000132_KinoMarshrut" tvg-name="Bear TV КиноМаршрут  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМаршрут  UHD
-https://uhd.bear-tv.net/000132_KinoMarshrut/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000133_LegendsEkrana" tvg-name="Bear TV Легенды Экрана  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Легенды Экрана  UHD
-https://uhd.bear-tv.net/000133_LegendsEkrana/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000135_MovieWave" tvg-name="Bear TV КиноВолна  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноВолна  UHD
-https://uhd.bear-tv.net/000135_MovieWave/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000137_CinemaOrbit" tvg-name="Bear TV КиноОрбита  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноОрбита  UHD
-https://uhd.bear-tv.net/000137_CinemaOrbit/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000139_FilmGalaxy" tvg-name="Bear TV Галактика Кино  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Галактика Кино  UHD
-https://uhd.bear-tv.net/000139_FilmGalaxy/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000141_KinoSphere" tvg-name="Bear TV КиноСфера  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноСфера  UHD
-https://uhd.bear-tv.net/000141_KinoSphere/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000143_KinoDrive" tvg-name="Bear TV КиноДрайв  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноДрайв  UHD
-https://uhd.bear-tv.net/000143_KinoDrive/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000144_BlockbusterTV" tvg-name="Bear TV Блокбастер ТВ  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Блокбастер ТВ  UHD
-https://uhd.bear-tv.net/000144_BlockbusterTV/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000199_FilmKanal" tvg-name="Bear TV Фильм Канал  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фильм Канал  UHD
-https://uhd.bear-tv.net/000199_FilmKanal/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000201_KinoLine" tvg-name="Bear TV КиноЛиния  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноЛиния  UHD
-https://uhd.bear-tv.net/000201_KinoLine/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000202_MovieStar" tvg-name="Bear TV КиноЗвезда  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноЗвезда  UHD
-https://uhd.bear-tv.net/000202_MovieStar/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000203_KinoArena" tvg-name="Bear TV КиноАрена  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноАрена  UHD
-https://uhd.bear-tv.net/000203_KinoArena/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000204_EkranFuture" tvg-name="Bear TV Экран Будущего  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран Будущего  UHD
-https://uhd.bear-tv.net/000204_EkranFuture/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000205_CinemaNova" tvg-name="Bear TV Кино Нова  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кино Нова  UHD
-https://uhd.bear-tv.net/000205_CinemaNova/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000206_KinoFocus" tvg-name="Bear TV КиноФокус  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноФокус  UHD
-https://uhd.bear-tv.net/000206_KinoFocus/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000207_FilmPotok" tvg-name="Bear TV ФильмПоток  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФильмПоток  UHD
-https://uhd.bear-tv.net/000207_FilmPotok/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000208_KinoMix" tvg-name="Bear TV КиноМикс  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМикс  UHD
-https://uhd.bear-tv.net/000208_KinoMix/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000209_KinoClassic" tvg-name="Bear TV КиноКлассика  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноКлассика  UHD
-https://uhd.bear-tv.net/000209_KinoClassic/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000210_SuperSeans" tvg-name="Bear TV СуперСеанс  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV СуперСеанс  UHD
-https://uhd.bear-tv.net/000210_SuperSeans/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000211_HDKinoDom" tvg-name="Bear TV КиноДом  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноДом  UHD
-https://uhd.bear-tv.net/000211_HDKinoDom/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000212_KinoPlanet" tvg-name="Bear TV КиноПланета  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноПланета  UHD
-https://uhd.bear-tv.net/000212_KinoPlanet/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000213_MovieNight" tvg-name="Bear TV КиноНочь  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноНочь  UHD
-https://uhd.bear-tv.net/000213_MovieNight/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000214_KinoPortal" tvg-name="Bear TV КиноПортал  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноПортал  UHD
-https://uhd.bear-tv.net/000214_KinoPortal/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000215_EkranPremium" tvg-name="Bear TV Экран Премиум  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран Премиум  UHD
-https://uhd.bear-tv.net/000215_EkranPremium/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000216_KinoSvet" tvg-name="Bear TV КиноСвет  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноСвет  UHD
-https://uhd.bear-tv.net/000216_KinoSvet/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000217_FilmExpress" tvg-name="Bear TV ФильмЭкспресс  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФильмЭкспресс  UHD
-https://uhd.bear-tv.net/000217_FilmExpress/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000218_SerialPark" tvg-name="Bear TV Парк Кино  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Парк Кино  UHD
-https://uhd.bear-tv.net/000218_SerialPark/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000219_CinemaTime" tvg-name="Bear TV Время Кино  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Время Кино  UHD
-https://uhd.bear-tv.net/000219_CinemaTime/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000220_KinoMayak" tvg-name="Bear TV КиноМаяк  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноМаяк  UHD
-https://uhd.bear-tv.net/000220_KinoMayak/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000221_KinoBaza" tvg-name="Bear TV КиноБаза  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноБаза  UHD
-https://uhd.bear-tv.net/000221_KinoBaza/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000222_FilmZone" tvg-name="Bear TV ФильмЗона  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФильмЗона  UHD
-https://uhd.bear-tv.net/000222_FilmZone/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000223_KinoEmpire" tvg-name="Bear TV КиноИмперия  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноИмперия  UHD
-https://uhd.bear-tv.net/000223_KinoEmpire/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000224_EkranHit" tvg-name="Bear TV Экран Хит  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Экран Хит  UHD
-https://uhd.bear-tv.net/000224_EkranHit/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000225_MovieLine" tvg-name="Bear TV Линия Кино  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Линия Кино  UHD
-https://uhd.bear-tv.net/000225_MovieLine/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000226_KinoRhythm" tvg-name="Bear TV КиноРитм  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КиноРитм  UHD
-https://uhd.bear-tv.net/000226_KinoRhythm/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="000227_Seans247" tvg-name="Bear TV Сеанс 24/7  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сеанс 24/7  UHD
-https://uhd.bear-tv.net/000227_Seans247/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="009999_KinoMania" tvg-name="Bear TV Киномания  UHD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Киномания  UHD
-https://uhd.bear-tv.net/009999_KinoMania/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_dobirka_filmiv" tvg-name="Bear TV Добірка Фільмів UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Добірка Фільмів UA HD
-https://uhd.bear-tv.net/bear_tv_dobirka_filmiv/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_domashniy_kinozal" tvg-name="Bear TV Домашній Кінозал UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Домашній Кінозал UA HD
-https://uhd.bear-tv.net/bear_tv_domashniy_kinozal/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_filmmaniya" tvg-name="Bear TV ФільмМанія UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV ФільмМанія UA HD
-https://uhd.bear-tv.net/bear_tv_filmmaniya/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_filmovyy_den" tvg-name="Bear TV Фільмовий День UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільмовий День UA HD
-https://uhd.bear-tv.net/bear_tv_filmovyy_den/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_filmovyy_miks" tvg-name="Bear TV Фільмовий Мікс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільмовий Мікс UA HD
-https://uhd.bear-tv.net/bear_tv_filmovyy_miks/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_filmy_24" tvg-name="Bear TV Фільми 24 UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільми 24 UA HD
-https://uhd.bear-tv.net/bear_tv_filmy_24/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_film_za_filmom" tvg-name="Bear TV Фільм за Фільмом UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Фільм за Фільмом UA HD
-https://uhd.bear-tv.net/bear_tv_film_za_filmom/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_hit_film" tvg-name="Bear TV Хіт Фільм UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Хіт Фільм UA HD
-https://uhd.bear-tv.net/bear_tv_hit_film/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinoatmosfera" tvg-name="Bear TV КіноАтмосфера UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноАтмосфера UA HD
-https://uhd.bear-tv.net/bear_tv_kinoatmosfera/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinobezperervy" tvg-name="Bear TV Кіно Без Перерви UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кіно Без Перерви UA HD
-https://uhd.bear-tv.net/bear_tv_kinobezperervy/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinohvylya" tvg-name="Bear TV КіноХвиля UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноХвиля UA HD
-https://uhd.bear-tv.net/bear_tv_kinohvylya/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinoklub" tvg-name="Bear TV КіноКлуб UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноКлуб UA HD
-https://uhd.bear-tv.net/bear_tv_kinoklub/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinokolektsiya" tvg-name="Bear TV КіноКолекція UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноКолекція UA HD
-https://uhd.bear-tv.net/bear_tv_kinokolektsiya/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinoliniya" tvg-name="Bear TV КіноЛінія UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноЛінія UA HD
-https://uhd.bear-tv.net/bear_tv_kinoliniya/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinomarafon" tvg-name="Bear TV КіноМарафон UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноМарафон UA HD
-https://uhd.bear-tv.net/bear_tv_kinomarafon/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinomiks" tvg-name="Bear TV КіноМікс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноМікс UA HD
-https://uhd.bear-tv.net/bear_tv_kinomiks/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinonastriy" tvg-name="Bear TV КіноНастрій UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноНастрій UA HD
-https://uhd.bear-tv.net/bear_tv_kinonastriy/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinoplaneta" tvg-name="Bear TV КіноПланета UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноПланета UA HD
-https://uhd.bear-tv.net/bear_tv_kinoplaneta/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinoplyus" tvg-name="Bear TV КіноПлюс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноПлюс UA HD
-https://uhd.bear-tv.net/bear_tv_kinoplyus/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinopotik" tvg-name="Bear TV КіноПотік UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноПотік UA HD
-https://uhd.bear-tv.net/bear_tv_kinopotik/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinosvit" tvg-name="Bear TV КіноСвіт UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноСвіт UA HD
-https://uhd.bear-tv.net/bear_tv_kinosvit/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinotaym" tvg-name="Bear TV КіноТайм UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноТайм UA HD
-https://uhd.bear-tv.net/bear_tv_kinotaym/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinovechir" tvg-name="Bear TV КіноВечір UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV КіноВечір UA HD
-https://uhd.bear-tv.net/bear_tv_kinovechir/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_kinozal" tvg-name="Bear TV Кінозал UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Кінозал UA HD
-https://uhd.bear-tv.net/bear_tv_kinozal/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_legendy_kino" tvg-name="Bear TV Легенди Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Легенди Кіно UA HD
-https://uhd.bear-tv.net/bear_tv_legendy_kino/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_megafilm" tvg-name="Bear TV МегаФільм UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МегаФільм UA HD
-https://uhd.bear-tv.net/bear_tv_megafilm/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_movie_ua" tvg-name="Bear TV Movie UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Movie UA HD
-https://uhd.bear-tv.net/bear_tv_movie_ua/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_24" tvg-name="Bear TV Мульт 24 UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт 24 UA HD
-https://uhd.bear-tv.net/bear_tv_mult_24/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_animatsiya" tvg-name="Bear TV Мульт Анімація UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт Анімація UA HD
-https://uhd.bear-tv.net/bear_tv_mult_animatsiya/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_dytyachyy_svit" tvg-name="Bear TV Дитячий Світ UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Дитячий Світ UA HD
-https://uhd.bear-tv.net/bear_tv_mult_dytyachyy_svit/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_hit" tvg-name="Bear TV Мульт Хіт UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт Хіт UA HD
-https://uhd.bear-tv.net/bear_tv_mult_hit/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_kids_kino" tvg-name="Bear TV Kids Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Kids Кіно UA HD
-https://uhd.bear-tv.net/bear_tv_mult_kids_kino/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_malyy_ekran" tvg-name="Bear TV Малий Екран UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Малий Екран UA HD
-https://uhd.bear-tv.net/bear_tv_mult_malyy_ekran/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_miks" tvg-name="Bear TV Мульт Мікс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Мульт Мікс UA HD
-https://uhd.bear-tv.net/bear_tv_mult_miks/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_simeyni" tvg-name="Bear TV Сімейні Мульти UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сімейні Мульти UA HD
-https://uhd.bear-tv.net/bear_tv_mult_simeyni/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_svit" tvg-name="Bear TV МультСвіт UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МультСвіт UA HD
-https://uhd.bear-tv.net/bear_tv_mult_svit/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_mult_zal" tvg-name="Bear TV МультЗал UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV МультЗал UA HD
-https://uhd.bear-tv.net/bear_tv_mult_zal/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_nichnyy_seans" tvg-name="Bear TV Нічний Сеанс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Нічний Сеанс UA HD
-https://uhd.bear-tv.net/bear_tv_nichnyy_seans/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_prem_yera" tvg-name="Bear TV Прем'єра UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Прем'єра UA HD
-https://uhd.bear-tv.net/bear_tv_prem_yera/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_seans_24" tvg-name="Bear TV Сеанс 24 UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сеанс 24 UA HD
-https://uhd.bear-tv.net/bear_tv_seans_24/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_simeynyy_vechir" tvg-name="Bear TV Сімейний Вечір UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Сімейний Вечір UA HD
-https://uhd.bear-tv.net/bear_tv_simeynyy_vechir/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_svit_kino" tvg-name="Bear TV Світ Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Світ Кіно UA HD
-https://uhd.bear-tv.net/bear_tv_svit_kino/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_top_kino" tvg-name="Bear TV Топ Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Топ Кіно UA HD
-https://uhd.bear-tv.net/bear_tv_top_kino/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_ukrayinskyy_seans" tvg-name="Bear TV Український Сеанс UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Український Сеанс UA HD
-https://uhd.bear-tv.net/bear_tv_ukrayinskyy_seans/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_ulyubleni_filmy" tvg-name="Bear TV Улюблені Фільми UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Улюблені Фільми UA HD
-https://uhd.bear-tv.net/bear_tv_ulyubleni_filmy/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_vechirnye_kino" tvg-name="Bear TV Вечірнє Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Вечірнє Кіно UA HD
-https://uhd.bear-tv.net/bear_tv_vechirnye_kino/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_velyke_kino" tvg-name="Bear TV Велике Кіно UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Велике Кіно UA HD
-https://uhd.bear-tv.net/bear_tv_velyke_kino/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_velykyy_ekran" tvg-name="Bear TV Великий Екран UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Великий Екран UA HD
-https://uhd.bear-tv.net/bear_tv_velykyy_ekran/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_vybir_glyadacha" tvg-name="Bear TV Вибір Глядача UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Вибір Глядача UA HD
-https://uhd.bear-tv.net/bear_tv_vybir_glyadacha/index.m3u8?token=2__wqx2YvuBv00
-#EXTINF:-1 tvg-id="bear_tv_zolota_kolektsiya" tvg-name="Bear TV Золота Колекція UA HD" tvg-logo="http://uhd.bear-tv.net:8080/bear_uhd/logo.png" group-title="Bear TV",Bear TV Золота Колекція UA HD
-https://uhd.bear-tv.net/bear_tv_zolota_kolektsiya/index.m3u8?token=2__wqx2YvuBv00
-
-#EXTINF:-1 group-title="Tест-24-08", VIP Megahit HD
-http://cloud01.03cdn.wf:8080/ch019/index.m3u8?token=a0e01ca42f61b818187127fdc543642c477f5a824
-#EXTINF:-1 group-title="Tест-24-08", VIP Premiere HD
-http://cloud01.03cdn.wf:8080/ch020/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5d4bba824
-#EXTINF:-1 group-title="Tест-24-08", VIP Comedy HD
-http://cloud01.03cdn.wf:8080/ch021/index.m3u8?token=a0e01ca42f61b818187127fdc543642c446dba824
-#EXTINF:-1 group-title="Tест-24-08", viju TV1000 Новелла HD
-http://cloud01.03cdn.wf:8080/ch009/index.m3u8?token=a0e01ca42f61b818187127fdc543642cb2280a824
-#EXTINF:-1 group-title="Tест-24-08", TV 1000 HD
-http://cloud01.03cdn.wf:8080/ch053/index.m3u8?token=a0e01ca42f61b818187127fdc543642c9de70a824
-#EXTINF:-1 group-title="Tест-24-08", TV 1000 Action HD
-http://cloud01.03cdn.wf:8080/ch033/index.m3u8?token=a0e01ca42f61b818187127fdc543642ccc6cba824
-#EXTINF:-1 group-title="Tест-24-08", TV 1000 Русское кино HD
-http://cloud01.03cdn.wf:8080/ch022/index.m3u8?token=a0e01ca42f61b818187127fdc543642c213a6a824
-#EXTINF:-1 group-title="Tест-24-08", Кинопремьера HD
-http://cloud01.03cdn.wf:8080/ch407/index.m3u8?token=a0e01ca42f61b818187127fdc543642c9e71ca824
-#EXTINF:-1 group-title="Tест-24-08", Мужское кино HD
-http://cloud01.03cdn.wf:8080/ch029/index.m3u8?token=a0e01ca42f61b818187127fdc543642cb503da824
-#EXTINF:-1 group-title="Tест-24-08", Киномикс HD
-http://cloud01.03cdn.wf:8080/ch384/index.m3u8?token=a0e01ca42f61b818187127fdc543642c2501ca824
-#EXTINF:-1 group-title="Tест-24-08", Кинокомедия HD
-http://cloud01.03cdn.wf:8080/ch011/index.m3u8?token=a0e01ca42f61b818187127fdc543642ca8926a824
-#EXTINF:-1 group-title="Tест-24-08", Киносерия HD
-http://cloud01.03cdn.wf:8080/ch072/index.m3u8?token=a0e01ca42f61b818187127fdc543642c98288a824
-#EXTINF:-1 group-title="Tест-24-08", Киносвидание HD
-http://cloud01.03cdn.wf:8080/ch012/index.m3u8?token=a0e01ca42f61b818187127fdc543642ce945da824
-#EXTINF:-1 group-title="Tест-24-08", Остросюжетное HD
-http://cloud01.03cdn.wf:8080/ch177/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5492ba824
-#EXTINF:-1 group-title="Tест-24-08", Кинопоказ HD
-http://cloud01.03cdn.wf:8080/ch333/index.m3u8?token=a0e01ca42f61b818187127fdc543642ce02d9a824
-#EXTINF:-1 group-title="Tест-24-08", Хит HD
-http://cloud01.03cdn.wf:8080/ch334/index.m3u8?token=a0e01ca42f61b818187127fdc543642c6fb7ea824
-#EXTINF:-1 group-title="Tест-24-08", Блокбастер HD
-http://cloud01.03cdn.wf:8080/ch335/index.m3u8?token=a0e01ca42f61b818187127fdc543642c4e139a824
-#EXTINF:-1 group-title="Tест-24-08", Боевики HD
-http://cloud01.03cdn.wf:8080/ch397/index.m3u8?token=a0e01ca42f61b818187127fdc543642ca4663a824
-#EXTINF:-1 group-title="Tест-24-08", Наш Кинопоказ HD
-http://cloud01.03cdn.wf:8080/ch336/index.m3u8?token=a0e01ca42f61b818187127fdc543642c41b62a824
-#EXTINF:-1 group-title="Tест-24-08", Наше Мужское HD
-http://cloud03.03cdn.wf:8080/ch337/index.m3u8?token=a0e01ca42f61b818187127fdc543642cebdaf9fec
-#EXTINF:-1 group-title="Tест-24-08", Наше крутое HD
-http://cloud01.03cdn.wf:8080/ch024/index.m3u8?token=a0e01ca42f61b818187127fdc543642c3b8ada824
-#EXTINF:-1 group-title="Tест-24-08", Премиальное HD
-http://cloud01.03cdn.wf:8080/ch023/index.m3u8?token=a0e01ca42f61b818187127fdc543642c72fd0a824
-#EXTINF:-1 group-title="Tест-24-08", Криминальное HD
-http://cloud01.03cdn.wf:8080/ch855/index.m3u8?token=a0e01ca42f61b818187127fdc543642c7a4f8a824
-#EXTINF:-1 group-title="Tест-24-08", Дом Кино Премиум HD
-http://cloud01.03cdn.wf:8080/ch001/index.m3u8?token=a0e01ca42f61b818187127fdc543642ce8018a824
-#EXTINF:-1 group-title="Tест-24-08", Кино ТВ HD
-http://cloud01.03cdn.wf:8080/ch026/index.m3u8?token=a0e01ca42f61b818187127fdc543642cac16ba824
-#EXTINF:-1 group-title="Tест-24-08", Комедийное HD
-http://cloud01.03cdn.wf:8080/ch016/index.m3u8?token=a0e01ca42f61b818187127fdc543642cc0e10a824
-#EXTINF:-1 group-title="Tест-24-08", Камеди HD
-http://cloud01.03cdn.wf:8080/ch452/index.m3u8?token=a0e01ca42f61b818187127fdc543642cdbcada824
-#EXTINF:-1 group-title="Tест-24-08", Киноужас HD
-http://cloud01.03cdn.wf:8080/ch387/index.m3u8?token=a0e01ca42f61b818187127fdc543642c46b4da824
-#EXTINF:-1 group-title="Tест-24-08", Шокирующее HD
-http://cloud01.03cdn.wf:8080/ch139/index.m3u8?token=a0e01ca42f61b818187127fdc543642c861f8a824
-#EXTINF:-1 group-title="Tест-24-08", Plan B HD
-http://cloud01.03cdn.wf:8080/ch886/index.m3u8?token=a0e01ca42f61b818187127fdc543642cae605a824
-#EXTINF:-1 group-title="Tест-24-08", 4ever Cinema HD
-http://cloud03.03cdn.wf:8080/ch894/index.m3u8?token=a0e01ca42f61b818187127fdc543642cad4269fec
-#EXTINF:-1 group-title="Tест-24-08", Любимое HD
-http://cloud01.03cdn.wf:8080/ch406/index.m3u8?token=a0e01ca42f61b818187127fdc543642cf4825a824
-#EXTINF:-1 group-title="Tест-24-08", Чижик HD
-http://cloud02.03cdn.wf:8080/ch858/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5e26a9637
-#EXTINF:-1 group-title="Tест-24-08", День Победы HD
-http://cloud01.03cdn.wf:8080/ch448/index.m3u8?token=a0e01ca42f61b818187127fdc543642c81b6ba824
-#EXTINF:-1 group-title="Tест-24-08", Победа HD
-http://cloud02.03cdn.wf:8080/ch469/index.m3u8?token=a0e01ca42f61b818187127fdc543642c578af9637
-#EXTINF:-1 group-title="Tест-24-08", Мосфильм HD
-http://cloud01.03cdn.wf:8080/ch561/index.m3u8?token=a0e01ca42f61b818187127fdc543642c4f5a2a824
-#EXTINF:-1 group-title="Tест-24-08", Душевное HD
-http://cloud01.03cdn.wf:8080/ch025/index.m3u8?token=a0e01ca42f61b818187127fdc543642c8940ca824
-#EXTINF:-1 group-title="Tест-24-08", Романтичное HD
-http://cloud01.03cdn.wf:8080/ch340/index.m3u8?token=a0e01ca42f61b818187127fdc543642cdce25a824
-#EXTINF:-1 group-title="Tест-24-08", Про Любовь HD
-http://cloud01.03cdn.wf:8080/ch451/index.m3u8?token=a0e01ca42f61b818187127fdc543642ce7570a824
-#EXTINF:-1 group-title="Tест-24-08", Amedia Premium HD
-http://cloud01.03cdn.wf:8080/ch405/index.m3u8?token=a0e01ca42f61b818187127fdc543642ced9c1a824
-#EXTINF:-1 group-title="Tест-24-08", A2 HD
-http://cloud03.03cdn.wf:8080/ch555/index.m3u8?token=a0e01ca42f61b818187127fdc543642c099409fec
-#EXTINF:-1 group-title="Tест-24-08", Fox Life HD
-http://cloud01.03cdn.wf:8080/ch175/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd4dc8a824
-#EXTINF:-1 group-title="Tест-24-08", HD Hollywood
-http://cloud03.03cdn.wf:8080/ch027/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5d7d89fec
-#EXTINF:-1 group-title="Tест-24-08", Киноджем 1 HD
-http://cloud01.03cdn.wf:8080/ch578/index.m3u8?token=a0e01ca42f61b818187127fdc543642c19f49a824
-#EXTINF:-1 group-title="Tест-24-08", Киноджем 2 HD
-http://cloud02.03cdn.wf:8080/ch579/index.m3u8?token=a0e01ca42f61b818187127fdc543642cc0c149637
-#EXTINF:-1 group-title="Tест-24-08", DUO Premium 1 HD
-http://cloud01.03cdn.wf:8080/ch1500/index.m3u8?token=a0e01ca42f61b818187127fdc543642c1414da824
-#EXTINF:-1 group-title="Tест-24-08", DUO Premium 2 HD
-http://cloud01.03cdn.wf:8080/ch1502/index.m3u8?token=a0e01ca42f61b818187127fdc543642c48741a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Home Series HD
-http://cloud01.03cdn.wf:8080/ch1539/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd6e20a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Serial Hits HD
-http://cloud01.03cdn.wf:8080/ch1538/index.m3u8?token=a0e01ca42f61b818187127fdc543642ce6ee8a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Comedy Series HD
-http://cloud01.03cdn.wf:8080/ch1542/index.m3u8?token=a0e01ca42f61b818187127fdc543642ce7540a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Комеди сериалы HD
-http://cloud01.03cdn.wf:8080/ch1541/index.m3u8?token=a0e01ca42f61b818187127fdc543642cad207a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Сваты сериал HD
-http://cloud01.03cdn.wf:8080/ch1543/index.m3u8?token=a0e01ca42f61b818187127fdc543642c07189a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Праздники HD
-http://cloud01.03cdn.wf:8080/ch829/index.m3u8?token=a0e01ca42f61b818187127fdc543642c45400a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Телохранители HD
-http://cloud01.03cdn.wf:8080/ch173/index.m3u8?token=a0e01ca42f61b818187127fdc543642c65d72a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Полицейский с Рублёвки
-http://cloud01.03cdn.wf:8080/ch795/index.m3u8?token=a0e01ca42f61b818187127fdc543642c9521fa824
-#EXTINF:-1 group-title="Tест-24-08", DUO Милиционер с Рублёвки
-http://cloud01.03cdn.wf:8080/ch794/index.m3u8?token=a0e01ca42f61b818187127fdc543642c4a2c3a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Жуки HD
-http://cloud01.03cdn.wf:8080/ch796/index.m3u8?token=a0e01ca42f61b818187127fdc543642c92caea824
-#EXTINF:-1 group-title="Tест-24-08", DUO Отпуск HD
-http://cloud01.03cdn.wf:8080/ch797/index.m3u8?token=a0e01ca42f61b818187127fdc543642cf79d9a824
-#EXTINF:-1 group-title="Tест-24-08", DUO СашаТаня HD
-http://cloud01.03cdn.wf:8080/ch1509/index.m3u8?token=a0e01ca42f61b818187127fdc543642c51c0aa824
-#EXTINF:-1 group-title="Tест-24-08", DUO ЧОП HD
-http://cloud01.03cdn.wf:8080/ch1530/index.m3u8?token=a0e01ca42f61b818187127fdc543642cb9eefa824
-#EXTINF:-1 group-title="Tест-24-08", DUO Универ HD
-http://cloud01.03cdn.wf:8080/ch1531/index.m3u8?token=a0e01ca42f61b818187127fdc543642c96f9aa824
-#EXTINF:-1 group-title="Tест-24-08", DUO Война семей HD
-http://cloud01.03cdn.wf:8080/ch1532/index.m3u8?token=a0e01ca42f61b818187127fdc543642c1d918a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Трёшка HD
-http://cloud01.03cdn.wf:8080/ch1533/index.m3u8?token=a0e01ca42f61b818187127fdc543642c7ee79a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Физрук HD
-http://cloud01.03cdn.wf:8080/ch1536/index.m3u8?token=a0e01ca42f61b818187127fdc543642c43336a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Реальные пацаны HD
-http://cloud01.03cdn.wf:8080/ch1535/index.m3u8?token=a0e01ca42f61b818187127fdc543642c71cb7a824
-#EXTINF:-1 group-title="Tест-24-08", DUO Игра престолов HD
-http://cloud01.03cdn.wf:8080/ch1534/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd9d0da824
-#EXTINF:-1 group-title="Tест-24-08", DUO Комедии СССР HD
-http://cloud01.03cdn.wf:8080/ch793/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd6f61a824
-#EXTINF:-1 group-title="Tест-24-08", DUO RuCrime HD
-http://cloud01.03cdn.wf:8080/ch1508/index.m3u8?token=a0e01ca42f61b818187127fdc543642c76a34a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Action HD
-http://cloud01.03cdn.wf:8080/ch530/index.m3u8?token=a0e01ca42f61b818187127fdc543642c73fa5a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Cinema HD
-http://cloud01.03cdn.wf:8080/ch532/index.m3u8?token=a0e01ca42f61b818187127fdc543642ca9285a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Cinema+ HD
-http://cloud01.03cdn.wf:8080/ch544/index.m3u8?token=a0e01ca42f61b818187127fdc543642c03c66a824
-#EXTINF:-1 group-title="Tест-24-08", BCU TruMotion HD
-http://cloud01.03cdn.wf:8080/ch598/index.m3u8?token=a0e01ca42f61b818187127fdc543642ca3ce5a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Catastrophe HD
-http://cloud01.03cdn.wf:8080/ch531/index.m3u8?token=a0e01ca42f61b818187127fdc543642ce22fba824
-#EXTINF:-1 group-title="Tест-24-08", BCU Marvel HD hevc
-http://cloud01.03cdn.wf:8080/ch529/index.m3u8?token=a0e01ca42f61b818187127fdc543642c4598da824
-#EXTINF:-1 group-title="Tест-24-08", BCU Comedy HD hevc
-http://cloud01.03cdn.wf:8080/ch533/index.m3u8?token=a0e01ca42f61b818187127fdc543642c370eea824
-#EXTINF:-1 group-title="Tест-24-08", BCU Comedy HD
-http://cloud01.03cdn.wf:8080/ch593/index.m3u8?token=a0e01ca42f61b818187127fdc543642c38a17a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Cosmo HD hevc
-http://cloud01.03cdn.wf:8080/ch521/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5540ea824
-#EXTINF:-1 group-title="Tест-24-08", BCU Fantastic HD
-http://cloud01.03cdn.wf:8080/ch534/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5a6b7a824
-#EXTINF:-1 group-title="Tест-24-08", BCU FilMystic HD
-http://cloud01.03cdn.wf:8080/ch535/index.m3u8?token=a0e01ca42f61b818187127fdc543642ca0d67a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Reality HD hevc
-http://cloud01.03cdn.wf:8080/ch594/index.m3u8?token=a0e01ca42f61b818187127fdc543642cae829a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Kinorating HD
-http://cloud01.03cdn.wf:8080/ch536/index.m3u8?token=a0e01ca42f61b818187127fdc543642cda62ca824
-#EXTINF:-1 group-title="Tест-24-08", BCU Criminal HD
-http://cloud01.03cdn.wf:8080/ch550/index.m3u8?token=a0e01ca42f61b818187127fdc543642c93a44a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Premiere HD
-http://cloud01.03cdn.wf:8080/ch537/index.m3u8?token=a0e01ca42f61b818187127fdc543642c7f8e6a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Premiere 1 HDR
-http://cloud01.03cdn.wf:8080/ch566/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5b5c1a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Premiere 2 HDR
-http://cloud01.03cdn.wf:8080/ch567/index.m3u8?token=a0e01ca42f61b818187127fdc543642c4fe01a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Premiere 3 HDR
-http://cloud01.03cdn.wf:8080/ch568/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd1d34a824
-#EXTINF:-1 group-title="Tест-24-08", BCU History HD
-http://cloud01.03cdn.wf:8080/ch545/index.m3u8?token=a0e01ca42f61b818187127fdc543642cbe6dba824
-#EXTINF:-1 group-title="Tест-24-08", BCU Biography HDR
-http://cloud01.03cdn.wf:8080/ch524/index.m3u8?token=a0e01ca42f61b818187127fdc543642c17632a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Romantic HD
-http://cloud01.03cdn.wf:8080/ch543/index.m3u8?token=a0e01ca42f61b818187127fdc543642c2c1f2a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Survival HD hevc
-http://cloud01.03cdn.wf:8080/ch563/index.m3u8?token=a0e01ca42f61b818187127fdc543642c5c4c4a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Сваты HD
-http://cloud01.03cdn.wf:8080/ch540/index.m3u8?token=a0e01ca42f61b818187127fdc543642c91e70a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Russian HD
-http://cloud01.03cdn.wf:8080/ch538/index.m3u8?token=a0e01ca42f61b818187127fdc543642c61a41a824
-#EXTINF:-1 group-title="Tест-24-08", BCU RUSerial HD
-http://cloud01.03cdn.wf:8080/ch527/index.m3u8?token=a0e01ca42f61b818187127fdc543642cb50f1a824
-#EXTINF:-1 group-title="Tест-24-08", BCU СССР HD
-http://cloud01.03cdn.wf:8080/ch539/index.m3u8?token=a0e01ca42f61b818187127fdc543642c52600a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Russia 90s HD
-http://cloud01.03cdn.wf:8080/ch518/index.m3u8?token=a0e01ca42f61b818187127fdc543642c76a1aa824
-#EXTINF:-1 group-title="Tест-24-08", BCU Media HD
-http://cloud01.03cdn.wf:8080/ch541/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd4ba8a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Media 2 HDR
-http://cloud01.03cdn.wf:8080/ch522/index.m3u8?token=a0e01ca42f61b818187127fdc543642c7b7dfa824
-#EXTINF:-1 group-title="Tест-24-08", BCU Media 3 HDR
-http://cloud01.03cdn.wf:8080/ch523/index.m3u8?token=a0e01ca42f61b818187127fdc543642c510e5a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Stars HD
-http://cloud01.03cdn.wf:8080/ch528/index.m3u8?token=a0e01ca42f61b818187127fdc543642c119c5a824
-#EXTINF:-1 group-title="Tест-24-08", BCU VHS HD
-http://cloud01.03cdn.wf:8080/ch542/index.m3u8?token=a0e01ca42f61b818187127fdc543642cbb0dea824
-#EXTINF:-1 group-title="Tест-24-08", BCU Charm HD
-http://cloud01.03cdn.wf:8080/ch985/index.m3u8?token=a0e01ca42f61b818187127fdc543642cdbfada824
-#EXTINF:-1 group-title="Tест-24-08", BCU Кинозал 1 HD
-http://cloud01.03cdn.wf:8080/ch595/index.m3u8?token=a0e01ca42f61b818187127fdc543642c39ea0a824
-#EXTINF:-1 group-title="Tест-24-08", BCU Кинозал 2 HD
-http://cloud01.03cdn.wf:8080/ch596/index.m3u8?token=a0e01ca42f61b818187127fdc543642c3b1eda824
-#EXTINF:-1 group-title="Tест-24-08", BCU Кинозал 3 HD
-http://cloud01.03cdn.wf:8080/ch597/index.m3u8?token=a0e01ca42f61b818187127fdc543642cfc4b0a824
-#EXTINF:-1 group-title="Tест-24-08", Кинохит HD
-http://cloud01.03cdn.wf:8080/ch010/index.m3u8?token=a0e01ca42f61b818187127fdc543642c82bc1a824
-#EXTINF:-1 group-title="Tест-24-08", Киносемья HD
-http://cloud02.03cdn.wf:8080/ch430/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd31bb9637
-#EXTINF:-1 group-title="Tест-24-08", .red HD
-http://cloud02.03cdn.wf:8080/ch833/index.m3u8?token=a0e01ca42f61b818187127fdc543642cac7279637
-#EXTINF:-1 group-title="Tест-24-08", 4ever Drama HD
-http://cloud01.03cdn.wf:8080/ch124/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd5611a824
-#EXTINF:-1 group-title="Tест-24-08", 4ever Theater HD
-http://cloud01.03cdn.wf:8080/ch125/index.m3u8?token=a0e01ca42f61b818187127fdc543642c0b7ffa824
-#EXTINF:-1 group-title="Tест-24-08", КиноКульт HD
-http://cloud01.03cdn.wf:8080/ch100/index.m3u8?token=a0e01ca42f61b818187127fdc543642c40b87a824
-#EXTINF:-1 group-title="Tест-24-08", Наше новое кино
-http://cloud01.03cdn.wf:8080/ch054/index.m3u8?token=a0e01ca42f61b818187127fdc543642c83f58a824
-#EXTINF:-1 group-title="Tест-24-08", Родное кино
-http://cloud01.03cdn.wf:8080/ch056/index.m3u8?token=a0e01ca42f61b818187127fdc543642c04141a824
-#EXTINF:-1 group-title="Tест-24-08", Индийское кино
-http://cloud03.03cdn.wf:8080/ch078/index.m3u8?token=a0e01ca42f61b818187127fdc543642c1e1439fec
-#EXTINF:-1 group-title="Tест-24-08", Еврокино
-http://cloud01.03cdn.wf:8080/ch059/index.m3u8?token=a0e01ca42f61b818187127fdc543642c06600a824
-#EXTINF:-1 group-title="Tест-24-08",  Комедия
-http://cloud01.03cdn.wf:8080/ch060/index.m3u8?token=a0e01ca42f61b818187127fdc543642cc1e05a824
-#EXTINF:-1 group-title="Tест-24-08",  Бестселлер
-http://cloud01.03cdn.wf:8080/ch090/index.m3u8?token=a0e01ca42f61b818187127fdc543642c743f4a824
-#EXTINF:-1 group-title="Tест-24-08",  Детектив
-http://cloud01.03cdn.wf:8080/ch097/index.m3u8?token=a0e01ca42f61b818187127fdc543642c9e723a824
-#EXTINF:-1 group-title="Tест-24-08",  Роман
-http://cloud03.03cdn.wf:8080/ch088/index.m3u8?token=a0e01ca42f61b818187127fdc543642cef5089fec
-#EXTINF:-1 group-title="Tест-24-08", Любимое кино
-http://cloud01.03cdn.wf:8080/ch077/index.m3u8?token=a0e01ca42f61b818187127fdc543642c4af71a824
-#EXTINF:-1 group-title="Tест-24-08", Comedy Central
-http://cloud01.03cdn.wf:8080/ch032/index.m3u8?token=a0e01ca42f61b818187127fdc543642cd69ada824
-#EXTINF:-1 group-title="Tест-24-08", Sci-Fi
-http://cloud03.03cdn.wf:8080/ch160/index.m3u8?token=a0e01ca42f61b818187127fdc543642c986899fec
