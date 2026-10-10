@@ -1247,8 +1247,6 @@ https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
 #EXTINF:-1 group-title="SPORT 🏆",M Sport vpn
 http://5.188.159.128:8070/megogo_sport/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Окко Спорт 2
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
@@ -1257,6 +1255,20 @@ http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
 http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
 http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="SPORT 🏆",Матч Премьер
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 1
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 2
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 3
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://31.148.5.241/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
+http://31.148.5.241/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Uzreport HD
