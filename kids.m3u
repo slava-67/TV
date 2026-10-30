@@ -1,0 +1,113 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,🛠Ревизия №-1 🚦25.10.2026|13-05|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Піксель TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:0  tvg-id="http://ottiptvfilmtvgroup.zapto.org:8568/epg.xml"  tvg-name="Film TV Kids" group-title="CHILDREN'S 🧙" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVKIDS.png",Film TV Kids
+https://ottiptvfilmtvgroup.zapto.org:8080/FilmTVKids/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
+#EXTINF:-1 group-title="CHILDREN'S 🧙",GrandF TV Масяня
+http://62.141.35.207:8080/masiana/video.m3u8?token=WDJ_ON27CzbeN2
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Нікчемний Я 4 2024 професійний дубльований
+https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",FILM TV GROUP МультКазки
+http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="CHILDREN'S 🧙",2x2
+http://5.188.221.43:8080/play/2x2
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Солнце
+http://5.188.221.43:8080/play/disney
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Карусель
+http://5.188.221.43:8080/play/karusel
+#EXTINF:-1 group-title="CHILDREN'S 🧙",КАРУСЕЛЬ
+http://185.46.16.239:8000/Karusel
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Уникум
+http://185.46.16.239:8000/Detskiy
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Мульт
+http://185.46.16.239:8000/Mult
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Мульт HD
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="CHILDREN'S 🧙",В гостях у сказки HD
+http://185.46.16.239:8000/V_gostyakh_u_skazki
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Супергерои
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Солнце
+http://185.46.16.239:8000/Disney_Channel
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Ani
+http://185.46.16.239:8000/Ani
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Duck TV
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Мама
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Уникум
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Карусель
+https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Мульт
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",В Гостях У Сказки
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Tiji
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Карусель
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S 🧙",В гостях у сказки
+http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Карусель
+http://45.145.32.13:20440/karusel/index.m3u8?token=test
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Лапки Live
+http://45.145.32.13:20440/unikum/index.m3u8?token=test
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Tiji
+http://45.145.32.13:20440/tiji/index.m3u8?token=test
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Gulli girl
+http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Cartoo NITO Многоязычный
+http://46.149.191.217:9019/play/a010
+#EXTINF:-1 group-title="CHILDREN'S 🧙",Nickelodeon Многоязычный
+http://46.149.191.217:9011/play/a018
+
+
+#EXTINF:-1 group-title="Ott Club",В гостях у сказки 
+http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Tiji
+http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Jim Jam
+http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Солнце 
+http://stream.mcquack.net/118/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Da Vinci
+http://stream.mcquack.net/238/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Піксель
+http://stream.mcquack.net/223/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",ПлюсПлюс
+http://stream.mcquack.net/339/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Gulli Girl
+http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Jim Jam
+http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",2x2
+http://stream.mcquack.net/187/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Nick Jr
+http://stream.mcquack.net/220/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",Nickelodeon 
+http://stream.mcquack.net/443/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club",KinoKazka
+http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
