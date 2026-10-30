@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦29.10.2026|09-00|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦30.10.2026|05-20|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT 🏆",Divi Sport
@@ -360,3 +360,20 @@ http://141.94.193.53:80/Sport_2_HD/index.m3u8
 http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
 http://141.94.193.53:80/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 group-title="Uplink (VPN)",KHL Prime
+https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Uplink (VPN)",KHL
+https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Uplink (VPN)",Матч ТВ
+https://fs.uplink.kz/match/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Uplink (VPN)",Матч! Планета
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Uplink (VPN)",Viasat Sports
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Uplink (VPN)",MMA-TV
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Uplink (VPN)",Etreme sports
+https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Uplink (VPN)",Qazsport HD
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv2
