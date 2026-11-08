@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦06.11.2026|07-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦08.11.2026|07-10|kinofilm.m3u|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 
@@ -373,8 +373,6 @@ https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Техно 24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Киносерия
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="KINO+📺",viju+ Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD 
@@ -680,12 +678,7 @@ https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 group-title="Грузия 🇬🇪",Formula
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 
-#EXTINF:-1 group-title="Латвия 🇱🇻" tvg-logo="https://i.imgur.com/4npOpPj.png",Latvijas Radio 3 Klasika 
-https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:-1 group-title="Латвия 🇱🇻",TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 group-title="Латвия 🇱🇻" tvg-logo="https://i.imgur.com/r4rlHUt.png",Tvnet 
-https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+
 #EXTINF:-1 group-title="Латвия 🇱🇻",Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 

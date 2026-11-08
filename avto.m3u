@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦06.11.2026|07-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦08.11.2026|07-10|kinofilm.m3u|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", Discovery Channel HD
@@ -364,8 +364,6 @@ https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Техно 24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Киносерия
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="KINO+📺",viju+ Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD 
@@ -736,10 +734,7 @@ https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 group-title="Грузия 🇬🇪",Formula
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 
-#EXTINF:-1 group-title="Латвия 🇱🇻",TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 group-title="Латвия 🇱🇻" tvg-logo="https://i.imgur.com/r4rlHUt.png",Tvnet 
-https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+
 #EXTINF:-1 group-title="Латвия 🇱🇻",Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 
@@ -748,28 +743,6 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 group-title="Poland 🇵🇱",TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",TVT Zgorzelec 
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",ANTENA HD
-http://91.246.72.88:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",Alfa TVP
-http://91.246.72.88:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",ESKA TV
-http://91.246.72.88:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",Fokus TV
-http://91.246.72.88:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",PULS 2
-http://91.246.72.88:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",Polo TV
-http://91.246.72.88:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",Polsat
-http://91.246.72.88:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",Polsat News Polityka
-http://91.246.72.88:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",Stopklatka TV
-http://91.246.72.88:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱",Super Polsat
-http://91.246.72.88:8000/play/a00i/index.m3u8
 
 
 #EXTINF:-1 group-title="Болгария 🇧🇬",Travel TV
@@ -784,62 +757,7 @@ https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Пловдивска Православна ТВ
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",HBO HD bg
-https://shift03.isp.bg/HBO2_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",HBO 2 HD bg
-https://shift03.isp.bg/HBO2_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",HBO 3 HD bg
-https://shift03.isp.bg/HBO3_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",NOVA
-https://shift03.isp.bg/Nova_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",bTV HD
-https://shift03.isp.bg/bTV_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",bTV Action HD
-http://shift03.isp.bg/bTVAction_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",MovieStar HD
-https://shift03.isp.bg/MovieStar/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",AMC
-https://shift03.isp.bg/amc/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",AXN
-https://shift03.isp.bg/Axn/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Diema HD
-https://shift03.isp.bg/Diema/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Diema Family
-https://shift03.isp.bg/DiemaFamily/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Epic Drama HD
-https://shift03.isp.bg/EpicDrama/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",MagicTV HD
-https://shift03.isp.bg/MagicTV/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",RodinaTV HD
-https://shift03.isp.bg/RodinaTV/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",DMSat
-https://shift03.isp.bg/DMSat/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Planeta HD
-https://shift03.isp.bg/Planeta_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",MTV Europe
-https://shift03.isp.bg/MTVEurope/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",BBC
-https://shift03.isp.bg/BBC/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",CNN HD
-https://shift03.isp.bg/CNN/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Bulgaria24
-http://shift03.isp.bg/Bulgaria24/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",HGTV HD bg
-https://shift03.isp.bg/HGTV_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Viasat History HD bg
-https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Viasat Explorer HD bg
-https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Viasat Nature HD bg
-https://shift03.isp.bg/ViasatNature_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",NatGeo HD bg
-https://shift03.isp.bg/NatGeo_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",NatGeo HD bg
-https://shift03.isp.bg/NatGeoWild_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Discovery HD
-https://shift03.isp.bg/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",ID HD bg
-https://shift03.isp.bg/ID_HD/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Румыния 🇷🇴",Aleph News
@@ -875,40 +793,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 group-title="Португалия 🇵🇹",RTP1 HD
 http://50.7.120.34:8080/RTP_1/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",RTP2 HD
-http://50.7.120.34:8080/RTP_2/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",RTP3 HD
-http://50.7.120.34:8080/RTP_3/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",HOLLYWOOD HD
-http://50.7.120.34:8080/HOLLYWOOD/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",RTP Memoria
-http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",Porto Canal HD
-http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",SIC Noticias HD
-http://50.7.120.34:8080/SIC_NOTICIAS/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",SIC HD
-http://50.7.120.34:8080/SIC/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",SIC Caras HD
-http://50.7.120.34:8080/SIC_CARAS/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",SIC Mulher HD
-http://50.7.120.34:8080/SIC_MULHER/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",SIC Radical HD
-http://50.7.120.34:8080/SIC_RADICAL/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",TVI
-http://50.7.120.34:8080/TVI/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",CineMundo HD
-http://50.7.120.34:8080/CINEMUNDO/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",Star Channel HD
-http://50.7.120.34:8080/FOX/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",Star Crime HD
-http://50.7.120.34:8080/FOX_CRIME/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",Star Life HD
-http://50.7.120.34:8080/FOX_LIFE/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",Star Comedy HD
-http://50.7.120.34:8080/FOX_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Португалия 🇵🇹",Star Movies HD
-http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
 
 
 #EXTINF:-1 group-title="Франция 🇫🇷",MDL

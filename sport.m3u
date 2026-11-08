@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦06.11.2026|07-55|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦08.11.2026|07-10|kinofilm.m3u|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT 🏆",Divi Sport
@@ -57,16 +57,6 @@ https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/7010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
 http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Bein Sport HD 🇫🇷
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Bein Sport 2 HD 🇫🇷
-http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Bein Sport 3 HD 🇫🇷
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD 🇫🇷
-http://99.27.51.147:8080/EuroSport/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SKY Sports Football 
-http://31.43.191.125:8080/restream/restream/1671
 #EXTINF:-1 group-title="SPORT 🏆",ESPN Premium HD Испания 🇪🇸
 http://181.224.255.210:8001/play/a0pt/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",ESPN2 HD Испания 🇪🇸
