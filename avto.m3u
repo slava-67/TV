@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦08.11.2026|07-10|kinofilm.m3u|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦09.11.2026|12-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 group-title="Каналы с VPN", Discovery Channel HD
@@ -1491,60 +1491,18 @@ http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
 
-#EXTINF:-1 group-title="RELAX 💐",SCREENSAVER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210273&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN MEDIEVAL EUROPE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210274&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN WILD ANIMALS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210275&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN AQUARIUM
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210276&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN FIREPLACE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210277&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN FIREPLACE WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210278&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN CAMPFIRE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210279&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN WINTER WONDERLAND
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210280&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210281&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN WINTER 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210282&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN TROPICAL RAIN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210283&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN DUBAI
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210284&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN ISTANBUL
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210285&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN PARIS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210286&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN NORWAY
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210287&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN NEWYORK
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210288&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN NEW YORK 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210289&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN NEWYORK NIGHT
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210290&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN OCEAN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210291&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN THE DRIVE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210292&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",RELAX MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210293&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",RELAX JAZZ MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210294&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",RELAX YOGA MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210295&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",RELAX TO SLEEP
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210296&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",SCREEN CHICKEN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=551441&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",RELAX COFFEE SHOP MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210297&extension=ts
-#EXTINF:-1 group-title="RELAX 💐",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="RELAX 💐"  tvg-chno="4570",Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+#EXTINF:-1 channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="RELAX 💐"  tvg-chno="4572",Stingray Naturescape
+https://jmp2.uk/stvp-CAAJ3400003T7
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="RELAX 💐"  tvg-chno="4580",Stingray Spa
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500027DS" tvg-name="ZenLIFE by Stingray" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="RELAX 💐"  tvg-chno="4578",ZenLIFE by Stingray
+https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8
+#EXTINF:-1 group-title="RELAX 💐" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" ,Fireplace 4K
+https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1 group-title="RELAX 💐"Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 #EXTINF:-1 group-title="RELAX 💐",Better Life Nature Channel
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 group-title="RELAX 💐",КАМИН
@@ -1553,16 +1511,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
 
 
-#EXTINF:-1 group-title="ОБЩИЕ",Cirque du Soleil
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ",Russischer Jahrmarkt
-https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ",Каббала
-http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ",ДОЖДЬ
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ",Belsat TV
-http://91.246.72.88:8000/play/a01w/index.m3u8
+
 
 
 #EXTINF:-1 group-title="♥18+", Кино 18+
