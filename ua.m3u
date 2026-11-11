@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦09.11.2026|12-40|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦11.11.2026|12-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1,ПЕРШИЙ HD
@@ -254,8 +254,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 https://ottiptvfilmtvgroup.zapto.org:8080/FilmTVKids/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODg2ODMzNjIsImV4cCI6MTc4ODc2OTc2Miwic3ViIjoiQWRtaW4ifQ.elQlt9rDrYlfbg85aZPXxIarprRqhdf58qFUNs3wQqs
 #EXTINF:-1 group-title="ДІТИ",Кролецип та хом'як темряви (2022)
 https://ashdi.vip/video16/1/serials/chickenhare_and_the_hamster_of_darkness_2022_bdremux_1080p_101442/hls/A6aXi3WOjuRakhH+D4w=/index.m3u8
-#EXTINF:-1 group-title="ДІТИ",Том і Джеррі-Країна сніговиків|2022|76хв|США|мультфільм
-https://jk39ocmjeoyql3tj.ashdi.vip/content/stream/new/tom_and_jerry_snowmans_land__by_didko_134479/hls/1080/index.m3u8
 #EXTINF:-1 group-title="ДІТИ",Da Vinci
 https://stitch-ua4.fastad.pro/stream.m3u8?c=2097&dt=2&is_kids=false&o=aHR0cHM6Ly9obHMxNy5zd2VldC50di9zdHJlYW0veGoyNmEzbnoyaWhxdnM2Nmtzc3hyaTdieG5oaGVpejNpd3hocGRpcGY3d253dXhkMng4Y3ZqN3p6eGJnYnB2bTlpY2E5dnF1dmFzNzd3cDQ5ZmV2MmprZmloamJzczhrbW5uOWVnOGJ4ZHRqNjR2ajVpdXF6eXk3YXg0Y3MzanVlZXZqZ2lzdnB6aHZ2M2F4cXJydjJ5MmgzeHdrbWhwYmN4ZjV0ODlpNW16dGl0Nml0cmFhaXVlZW03NzRqOXpreXljMnpnZnVmZT09PT09PQ%3D%3D&p=1&session=3593014673826237905&u=4658946636260375128&variant=2
 #EXTINF:-1 group-title="ДІТИ",Da Vinci Explore the World HD
