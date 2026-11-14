@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦13.11.2026|10-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+#EXTINF:-1,🛠Ревизия №-1 🚦14.11.2026|12-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1, Кино 18+
@@ -44,6 +44,8 @@ http://91.205.196.7:8000/play/a033
 http://91.205.196.7:8000/play/a03m
 #EXTINF:-1,Dorcel_HD
 http://31.148.5.241:80/Dorcel_HD/index.m3u8
+#EXTINF:-1,Private TV
+http://stream.mcquack.net/282/index.m3u8
 #EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
 http://stream.mcquack.net/55/index.m3u8
 #EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Redlight HD
